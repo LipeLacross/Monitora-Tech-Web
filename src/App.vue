@@ -6,10 +6,11 @@
     <Challenge />
     <SolutionOverview />
     <UseCases />
-   <!-- <ClientFeedback /> -->
+    <!-- <ClientFeedback /> -->
     <Team />
     <CallToAction />
     <Footer />
+    <ScrollToTopButton />
   </div>
 </template>
 
@@ -24,6 +25,7 @@ import ClientFeedback from './components/ClientFeedback.vue';
 import Team from './components/Team.vue';
 import CallToAction from './components/CallToAction.vue';
 import Footer from './components/Footer.vue';
+import ScrollToTopButton from './components/ScrollToTopButton.vue';
 </script>
 
 <style>
