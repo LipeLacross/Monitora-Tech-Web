@@ -12,7 +12,7 @@ Este projeto é uma landing page para a Monitora Tech, focada na resolução do 
 
 ### Exemplo Visual do Projeto
 
-Adicione aqui uma imagem ou gif mostrando o layout e as funcionalidades principais da landing page.
+![chrome-capture-2024-10-22](https://github.com/user-attachments/assets/0f830c43-63c5-4bfc-85fd-4c7ff6b52451)
 
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
