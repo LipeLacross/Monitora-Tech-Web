@@ -42,12 +42,6 @@ export default {
           role: 'Desenvolvedor Fullstack',
           image: '/img/felipe.jpg',
         },
-        {
-          id: 3,
-          name: 'Claybson Jordão',
-          role: 'Engenheiro de Hardware',
-          image: 'https://via.placeholder.com/150',
-        },
       ],
     };
   },
