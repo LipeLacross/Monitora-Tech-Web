@@ -3,7 +3,7 @@
     <div class="container mx-auto text-center px-4 md:px-8 lg:px-16 relative z-10 animate-fade-in-up">
       <div class="flex flex-col items-center space-y-6 sm:space-y-8 md:space-y-12">
         <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-extrabold text-white tracking-widest leading-tight drop-shadow-2xl transition-transform duration-1000 hover:scale-110">
-          Automatize o Monitoramento de Vazão Hídrica
+          Monitora Tech
         </h1>
 
         <p class="text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-3xl text-white max-w-md sm:max-w-lg md:max-w-2xl lg:max-w-4xl drop-shadow-lg animate-fade-in-once">

@@ -1,4 +1,3 @@
-<!-- Team.vue -->
 <template>
   <section class="team-section py-16 bg-[#f8f8f8]">
     <div class="container mx-auto text-center px-4 md:px-8">
