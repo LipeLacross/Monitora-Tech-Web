@@ -1,5 +1,5 @@
 <template>
-  <section id="sobre" class="bg-gradient-to-b from-[#194f82] via-[#56ace0] to-[#e0f7ff] py-36 relative overflow-hidden">
+  <section id="sobre" class="bg-gradient-to-b from-[#194f82] via-[#56ace0] to-[#194f82] py-36 relative overflow-hidden">
     <div class="container mx-auto text-center relative z-10 animate-fade-in-up">
       <div class="flex flex-col items-center space-y-12">
         <h1 class="text-6xl md:text-7xl font-extrabold text-white tracking-widest leading-tight drop-shadow-2xl transition-transform duration-1000 hover:scale-110">

@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-[#194f82] p-4 shadow-lg text-white">
+  <header class="bg-gradient-to-b from-[#56ace0] to-[#194f82] p-4 shadow-lg text-white">
     <nav class="container mx-auto flex justify-between items-center">
       <div class="flex items-center space-x-4">
         <img src="../../public/img/logo.png" alt="Monitora Tech Logo" class="h-16 w-auto transition-transform duration-300 hover:scale-105">

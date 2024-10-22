@@ -6,7 +6,7 @@
     <Challenge />
     <SolutionOverview />
     <UseCases />
-    <ClientFeedback />
+   <!-- <ClientFeedback /> -->
     <CallToAction />
     <Footer />
   </div>
