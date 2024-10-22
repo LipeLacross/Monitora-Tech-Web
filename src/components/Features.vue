@@ -40,21 +40,10 @@
         </li>
       </ul>
     </div>
-
-    <!-- Formas SVG no Fundo -->
-    <div class="absolute inset-0 overflow-hidden z-0">
-      <svg class="absolute top-0 left-0 w-[400px] h-[400px] opacity-20 animate-rotate-slow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-        <circle fill="#ffffff" cx="50" cy="50" r="50" />
-      </svg>
-      <svg class="absolute bottom-0 right-0 w-[500px] h-[500px] opacity-20 animate-bounce-slow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-        <polygon fill="#ffffff" points="50,0 100,100 0,100" />
-      </svg>
-    </div>
   </section>
 </template>
 
 <style scoped>
-/* Animações Personalizadas Otimizadas */
 @keyframes rotate-slow {
   0% {
     transform: rotate(0deg);
