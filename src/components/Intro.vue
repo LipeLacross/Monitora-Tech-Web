@@ -1,5 +1,5 @@
 <template>
-  <section id="sobre" class="bg-gradient-to-b from-[#194f82] via-[#56ace0] to-[#e0f7ff] py-36 relative overflow-hidden">
+  <section id="sobre" class="bg-gradient-to-b from-[#194f82] via-[#56ace0] to-[#194f82] py-36 relative overflow-hidden">
     <div class="container mx-auto text-center relative z-10 animate-fade-in-up">
       <div class="flex flex-col items-center space-y-12">
         <h1 class="text-6xl md:text-7xl font-extrabold text-white tracking-widest leading-tight drop-shadow-2xl transition-transform duration-1000 hover:scale-110">
@@ -10,9 +10,11 @@
           Soluções inovadoras que utilizam tecnologia de ponta, monitoramento contínuo e visualização de dados em tempo real para revolucionar o seu controle hídrico.
         </p>
 
-        <button class="bg-[#fbb040] text-[#194f82] py-4 px-16 rounded-full shadow-2xl hover:bg-[#ffffff] hover:text-[#56ace0] transition-all duration-500 transform hover:scale-110 hover:shadow-4xl animate-floating font-bold">
-          Solicite uma Demonstração
-        </button>
+        <a href="https://wa.me/55989910562" target="_blank" rel="noopener noreferrer">
+          <button class="bg-[#fbb040] text-[#194f82] py-4 px-16 rounded-full shadow-2xl hover:bg-[#ffffff] hover:text-[#56ace0] transition-all duration-500 transform hover:scale-110 hover:shadow-4xl animate-floating font-bold">
+            Solicite uma Demonstração
+          </button>
+        </a>
       </div>
     </div>
 

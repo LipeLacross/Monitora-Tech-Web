@@ -7,7 +7,11 @@
       <ul class="grid grid-cols-1 md:grid-cols-3 gap-16">
         <li class="bg-white p-12 rounded-3xl shadow-2xl transform transition-all duration-700 hover:scale-105 hover:-translate-y-4 hover:shadow-4xl border-b-8 border-[#56ace0] hover:border-[#fbb040] animate-slide-up delay-200">
           <div class="flex items-center justify-center mb-8 text-[#56ace0]">
-            <i class="fas fa-chart-line text-8xl drop-shadow-xl animate-pulse-once"></i>
+            <img
+                src="https://cdn.pixabay.com/photo/2015/12/03/22/15/tablet-1075790_1280.jpg"
+                alt="Monitoramento em Tempo Real"
+                class="w-64 h-64 object-contain drop-shadow-xl animate-pulse-once border-4 border-[#56ace0] rounded-full"
+            />
           </div>
           <h3 class="text-3xl font-bold text-[#194f82] mb-6">
             Monitoramento em Tempo Real
@@ -18,7 +22,11 @@
         </li>
         <li class="bg-white p-12 rounded-3xl shadow-2xl transform transition-all duration-700 hover:scale-105 hover:-translate-y-4 hover:shadow-4xl border-b-8 border-[#56ace0] hover:border-[#fbb040] animate-slide-up delay-400">
           <div class="flex items-center justify-center mb-8 text-[#56ace0]">
-            <i class="fas fa-chart-pie text-8xl drop-shadow-xl animate-pulse-once"></i>
+            <img
+                src="https://images.unsplash.com/photo-1599658880436-c61792e70672?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                alt="Visualização Intuitiva"
+                class="w-64 h-64 object-contain drop-shadow-xl animate-pulse-once border-4 border-[#56ace0] rounded-full"
+            />
           </div>
           <h3 class="text-3xl font-bold text-[#194f82] mb-6">
             Visualização Intuitiva
@@ -29,7 +37,11 @@
         </li>
         <li class="bg-white p-12 rounded-3xl shadow-2xl transform transition-all duration-700 hover:scale-105 hover:-translate-y-4 hover:shadow-4xl border-b-8 border-[#56ace0] hover:border-[#fbb040] animate-slide-up delay-600">
           <div class="flex items-center justify-center mb-8 text-[#56ace0]">
-            <i class="fas fa-lock text-8xl drop-shadow-xl animate-pulse-once"></i>
+            <img
+                src="https://cdn.pixabay.com/photo/2018/07/14/11/28/blockchain-3537389_1280.jpg"
+                alt="Conexão Segura"
+                class="w-64 h-64 object-contain drop-shadow-xl animate-pulse-once border-4 border-[#56ace0] rounded-full"
+            />
           </div>
           <h3 class="text-3xl font-bold text-[#194f82] mb-6">
             Conexão Segura
