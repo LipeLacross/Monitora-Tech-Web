@@ -1,5 +1,5 @@
 <template>
-  <section id="sobre" class="bg-gradient-to-b from-[#194f82] via-[#56ace0] to-[#194f82] py-16 md:py-24 lg:py-36 relative overflow-hidden">
+  <section id="sobre" class="bg-gradient-to-b from-[#194f82] via-[#56ace0] to-[#194f82] py-32 md:py-40 lg:py-52 relative overflow-hidden">
     <div class="container mx-auto text-center px-4 md:px-8 lg:px-16 relative z-10 animate-fade-in-up">
       <div class="flex flex-col items-center space-y-6 sm:space-y-8 md:space-y-12">
         <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-extrabold text-white tracking-widest leading-tight drop-shadow-2xl transition-transform duration-1000 hover:scale-110">
@@ -18,11 +18,11 @@
       </div>
     </div>
 
-    <div class="absolute top-0 left-0 right-0 bottom-0 z-0 overflow-hidden">
-      <svg class="absolute -top-32 -left-24 opacity-20 w-48 sm:w-56 md:w-[400px] lg:w-[500px] xl:w-[600px] h-48 sm:h-56 md:h-[400px] lg:h-[500px] xl:h-[600px] animate-spin-slow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+    <div class="absolute inset-0 z-0 overflow-hidden">
+      <svg class="absolute -top-32 -left-24 opacity-20 w-48 sm:w-56 md:w-[300px] lg:w-[400px] xl:w-[500px] h-48 sm:h-56 md:h-[300px] lg:h-[400px] xl:h-[500px] animate-spin-slow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
         <circle fill="#ffffff" cx="50" cy="50" r="50" />
       </svg>
-      <svg class="absolute bottom-0 -right-20 opacity-20 w-40 sm:w-48 md:w-[300px] lg:w-[400px] xl:w-[500px] h-40 sm:h-48 md:h-[300px] lg:h-[400px] xl:h-[500px] animate-bounce" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <svg class="absolute bottom-0 -right-20 opacity-20 w-40 sm:w-48 md:w-[250px] lg:w-[350px] xl:w-[450px] h-40 sm:h-48 md:h-[250px] lg:h-[350px] xl:h-[450px] animate-bounce" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
         <polygon fill="#ffffff" points="50,0 100,100 0,100" />
       </svg>
     </div>
